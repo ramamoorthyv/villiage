@@ -1,4 +1,4 @@
-// Package stringutil contains utility functions for working with strings.
+// Package Villiage contains utility functions for working with age.
 package Villiage
 
 func find_age(yy int,mm int,dd int) int {

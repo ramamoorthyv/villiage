@@ -6,9 +6,7 @@ This package is used to find the age using date of birth.
 
 == Usage
 	
-    import (	    
-	    "github.com/ramamoorthy/villiage"
-    )
+    import  "github.com/ramamoorthy/villiage"
 
     age := Villiage.Find_age(1986,05,16)
     #=> 32

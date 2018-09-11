@@ -23,6 +23,6 @@ This package is used to find the age using date of birth.
 
 == Copyright
 
-Copyright (c) 2013 Ramamoorthy Villi. See LICENSE.txt for
+Copyright (c) 2018 Ramamoorthy Villi. See LICENSE.txt for
 further details.
 
